@@ -1,37 +1,36 @@
-﻿.ow-page-layout{
-    max-width:900px;
-    margin-left:auto;
-    margin-right:auto;
+﻿.ow-page-layout {
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .ow-color-yellow {
-    background-color:#ffd800;
+    background-color: #ffd800;
 }
 
 .ow-color-red1 {
-    background-color:#c40a0a;
+    background-color: #c40a0a;
 }
 
 .ow-color-red2 {
-    background-color:#7e0808;
+    background-color: #7e0808;
 }
 
 .demo-card-square.mdl-card {
-  
-  width:100% !important;
+    width: 100% !important;
 }
+
 .demo-card-square > .mdl-card__title {
-  color: #fff;
-  background-color: #46B6AC;
+    color: #fff;
+    background-color: #46B6AC;
 }
-<<<<<<< .mine
+
 .map {
     max-width: 900px;
     margin-left: auto;
     margin-right: auto;
 }
-=======
 
-.ow-ordering-card-body{
-	height:300px;
-}>>>>>>> .r11
+.ow-ordering-card-body {
+    height: 300px;
+}
