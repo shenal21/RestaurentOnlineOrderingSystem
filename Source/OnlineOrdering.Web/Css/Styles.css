@@ -5,15 +5,19 @@
 }
 
 .ow-color-yellow {
-    background-color: #ffd800;
+    background-color: #ffd800 !important;
 }
 
 .ow-color-red1 {
-    background-color: #c40a0a;
+    background-color: #c40a0a !important;
 }
 
 .ow-color-red2 {
-    background-color: #7e0808;
+    background-color: #7e0808 !important;
+}
+
+.ow-color-white {
+    background-color: #ffffff !important;
 }
 
 .demo-card-square.mdl-card {
@@ -21,7 +25,7 @@
 }
 
 .demo-card-square > .mdl-card__title {
-    color: #fff;
+    color: #;
     background-color: #46B6AC;
 }
 
@@ -33,4 +37,16 @@
 
 .ow-ordering-card-body {
     height: 300px;
+}
+
+.order-step-btn {
+    margin-right: 15px !important;
+}
+
+.fg-white {
+    color: #ffffff !important;
+}
+
+.header-color {
+
 }

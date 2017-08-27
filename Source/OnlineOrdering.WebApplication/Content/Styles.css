@@ -1,0 +1,52 @@
+﻿.ow-page-layout {
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ow-color-yellow {
+    background-color: #ffd800 !important;
+}
+
+.ow-color-red1 {
+    background-color: #c40a0a !important;
+}
+
+.ow-color-red2 {
+    background-color: #7e0808 !important;
+}
+
+.ow-color-white {
+    background-color: #ffffff !important;
+}
+
+.demo-card-square.mdl-card {
+    width: 100% !important;
+}
+
+.demo-card-square > .mdl-card__title {
+    color: #;
+    background-color: #46B6AC;
+}
+
+.map {
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ow-ordering-card-body {
+    height: 300px;
+}
+
+.order-step-btn {
+    margin-right: 15px !important;
+}
+
+.fg-white {
+    color: #ffffff !important;
+}
+
+.header-color {
+
+}
